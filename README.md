@@ -10,7 +10,7 @@ Güncel Versyon: Beta 1.0 (geliştirilince burada son sürümler yer alacaktır!
 - Basit ve sade arayüz! Kullanımı kolay!
 - Açık kaynak kodları sayesinde aşağıdaki programlarla açarak kodlarını istediğiniz gibi düzenleyebilirsiniz!
 - Geliştirdiğiniz sürümleri mconsole@maces.ga 'ya mail atarsanız diğer sürümlere istediğiniz özellikleri ekleyebiliriz!
-- Ayrıyetten mconsole@maces.ga 'ya Hataları, Görüşlerinizi paylaşabilirsiniz
+- Ayrıca mconsole@maces.ga 'ya Hataları, Görüşlerinizi paylaşabilirsiniz
 
 # Kurulum İçin;
 - Zip içindeki "normal-program-kurulum-dosyasi" içindeki bilgilendirme.txt içindeki yazılardan yardım alabilirsiniz!
