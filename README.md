@@ -12,6 +12,9 @@ Güncel Versyon: Beta 1.0 (geliştirilince burada son sürümler yer alacaktır!
 - Geliştirdiğiniz sürümleri mconsole@maces.ga 'ya mail atarsanız diğer sürümlere istediğiniz özellikleri ekleyebiliriz!
 - Ayrıyetten mconsole@maces.ga 'ya Hataları, Görüşlerinizi paylaşabilirsiniz
 
+Kurulum İçin;
+- Zip içindeki "normal-program-kurulum-dosyasi" içindeki bilgilendirme.txt içindeki yazılardan yardım alabilirsiniz!
+
 Kodları Düzenlemek İçin;
 
 - Zip içindeki dosyaları bir klasöre çıkarın
