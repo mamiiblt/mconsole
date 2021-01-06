@@ -4,6 +4,8 @@ Resmi mConsole şu an geliştirici kodları ile birlikte yayında!
 
 Geliştirici: Muhammed Ali BULUT
 
+Güncel Versyon: Beta 1.0 (geliştirilince bu alanda dosyalar değiştirilecektir!)
+
 - Kod girme arabirimi ile birden çok işlem!
 - Basit ve sade arayüz! Kullanımı kolay!
 - Açık kaynak kodları sayesinde aşağıdaki programlarla açarak kodlarını istediğiniz gibi düzenleyebilirsiniz!
