@@ -1,0 +1,9 @@
+Burada açık kaynak kodu ve normal program kurulum dosyası bulunamaktadır!
+
+Eğer programı düzenlemek - özelleştirmek isterseniz;
+> "acik-kaynak-kodu" klasörüne bakabilirsiniz!
+
+Eğer programı normal kullanıcı olarak kurmak isterseniz;
+> "normal-program-kurulum-dosyasi" dosyasındaki setup'u açarak değiştirebilirsiniz!
+
+İyi günler dilerim :)
