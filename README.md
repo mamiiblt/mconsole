@@ -1,4 +1,4 @@
-# mConsole
+# mConsole b1.0
 
 Resmi mConsole şu an geliştirici kodları ile birlikte yayında!
 
