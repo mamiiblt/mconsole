@@ -22,4 +22,7 @@ Güncel Versyon: Beta 1.0 (geliştirilince burada son sürümler yer alacaktır!
 - Files > Open bölümünden klasör içindeki "mConsole Windows Interactive.sln" dosyasını açın
 - C# ile tüm kodları görüp düzenleyebileceksiniz!
 
+# LİSANS;
+http://mqsftp.gq/license/
+
 ©2021 Maces Games STUDIOS™
